@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-	    <ProjectReference Include="..\MauiBlazorWebSolutionServerGlobalSampleProgramMain.Shared\MauiBlazorWebSolutionServerGlobalSampleProgramMain.Shared.csproj" />
+    <ProjectReference Include="..\MauiBlazorWebSolutionServerGlobalSampleProgramMain.Shared\MauiBlazorWebSolutionServerGlobalSampleProgramMain.Shared.csproj" />
   </ItemGroup>
 
 </Project>
